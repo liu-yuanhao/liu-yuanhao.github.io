@@ -27,7 +27,6 @@ author_profile: true
 - **Yuanhao Liu**, Fen Zhou, Cao Chen, Zuqing Zhu, Tao Shang, and Juan-Manuel Torres-Moreno, “Disaster Protection in Inter-DataCenter Networks leveraging Cooperative Storage,” 2020 IEEE Global Communications Conference (GLOBECOM), Taipei, 2020, pp. 1-6.
 - **Yuanhao Liu**, Fen Zhou, Michał Pióro, Tao Shang, Juan-Manuel Torres-Moreno, and Abderrahim Benslimane, “On Flow-based Directed p-cycles in Elastic Optical Networks,” 2022 27th IEEE Symposium on Computers and Communications (ISCC), Rhodes Island, Jul. 2022, pp. 1-6.
 - **Yuanhao Liu**, and Shang Tao, “Initialization of Hybrid Underwater Optical/Acoustic Network with Asymmetrical Duplex Link,” 2018 20th International Conference on Transparent Optical Networks (ICTON), Bucharest, Sep. 2018, pp. 1-4.
-[7]	Minwei Fan, **Yuanhao Liu(corresponding author)**, and Ning Deng*, "Disaster-Resilient Provisioning in C+L Multi-Band Optical Networks," 2025 Asia Communications and Photonics Conference (ACP), Jiangsu, China, 2025, pp. 1-5.
+- Minwei Fan, **Yuanhao Liu(corresponding author)**, and Ning Deng*, "Disaster-Resilient Provisioning in C+L Multi-Band Optical Networks," 2025 Asia Communications and Photonics Conference (ACP), Jiangsu, China, 2025, pp. 1-5.
 - **Yuanhao Liu**, Ning Deng, and Minwei Fan, “On p-Cycle-based Disaster Protection for Optical Network Provisioning,” Submitted to 2025 IEEE Global Communications Conference (GLOBECOM) in May 2026.
 - Xiaolan Xie, **Yuanhao Liu(corresponding author)**, Cao Chen, Minwei Fan, Ning Deng*, and Kezhong Lu, “Disaster Protection in SDM Elastic Optical Network with and without Inter-Core Switching,” Submitted to 2025 IEEE Global Communications Conference (GLOBECOM) in May 2026.
-
