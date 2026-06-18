@@ -25,11 +25,6 @@ Work experience
   * School of Computing and Information Technology, Great Bay University
   * Supervisor: Prof. Ning Deng (OPTICA Fellow)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
