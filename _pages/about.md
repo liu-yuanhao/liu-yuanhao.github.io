@@ -29,7 +29,7 @@ During his doctoral studies, Dr. Liu was awarded several prestigious scholarship
 ### Conferences
 
 - **Yuanhao Liu**, Ning Deng, Cao Chen, and Jianfei He, “On Resilient OCS-based Data Center Networks,” *2026 IEEE International Conference on Communications (ICC)*, Glasgow, May 2026, pp. 1-6.
+- **Yuanhao Liu**, and Ning Deng, “Disaster-Resilient Provisioning Leveraging Shared Adaptive Unequal Multi-Path Protection in DCONs,” *2025 IEEE Global Communications Conference (GLOBECOM)*, Taipei, Dec.2025, pp. 4077-4082.
 - **Yuanhao Liu**, Fen Zhou, Tao Shang, and Juan-Manuel Torres-Moreno, “Power-efficient and Distance-adaptive Disaster Protection for Service Function Chain Provisioning,” *2022 IEEE Global Communications Conference (GLOBECOM)*, Rio de Janeiro, Brazil, 2022, pp. 4407-4412.
 - **Yuanhao Liu**, Fen Zhou, Cao Chen, Zuqing Zhu, Tao Shang, and Juan-Manuel Torres-Moreno, “Disaster Protection in Inter-DataCenter Networks leveraging Cooperative Storage,” *2020 IEEE Global Communications Conference (GLOBECOM)*, Taipei, 2020, pp. 1-6.
-- **Yuanhao Liu**, and Ning Deng, “Disaster-Resilient Provisioning Leveraging Shared Adaptive Unequal Multi-Path Protection in DCONs,” *2025 IEEE Global Communications Conference (GLOBECOM)*, Taipei, Dec.2025, pp. 4077-4082.
 - **Yuanhao Liu**, Fen Zhou, Michał Pióro, Tao Shang, Juan-Manuel Torres-Moreno, and Abderrahim Benslimane, “On Flow-based Directed p-cycles in Elastic Optical Networks,” *2022 27th IEEE Symposium on Computers and Communications (ISCC)*, Rhodes Island, Jul. 2022, pp. 1-6.
