@@ -18,21 +18,21 @@ During his doctoral studies, Dr. Liu was awarded several prestigious scholarship
 ## Work Experience
 
 - 2024.08.01 –Pres., Special-Term Research Fellow
--- School of Computing and Information Technology, Great Bay University
+ - School of Computing and Information Technology, Great Bay University
 
 ## Educational Experience
 
 - 2019.09 – 2022.11, Joint Ph.D. Degree (Computer Science)
--- Laboratoire Informatique d’Avignon (LIA), Université d’Avignon
+ - Laboratoire Informatique d’Avignon (LIA), Université d’Avignon
   Co-supervised by Prof. Fen Zhou (HDR) and Prof. Juan-Manuel Torres-Moreno (HDR)
 
 - 2016.09 – 2022.12, Ph.D. Degree (Information and Telecommunications Engineering)
--- School of Telecommunications Engineering, Xidian University
+ - School of Telecommunications Engineering, Xidian University
   Supervised by Prof. Tao Shang (Vice Dean of School of Telecommunications Engineering)
   Successive postgraduate and doctoral programs
 
 - 2016.09 – 2022.12, Ph.D. Degree (Information and Telecommunications Engineering)
--- School of Telecommunications Engineering, Xidian University
+ - School of Telecommunications Engineering, Xidian University
   Teaching Reform Experimental Class
 
 ## Representative Works
