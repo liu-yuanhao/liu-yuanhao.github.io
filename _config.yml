@@ -23,7 +23,7 @@ repository               : "gbu-yhliu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lyh.png"
   name             : "Yuanhao Liu (刘元皓)"
   pronouns         : # example: "he/his"  
   bio              : "Special-Term Research Fellow"
