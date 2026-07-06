@@ -65,9 +65,9 @@ Dr. Liu is a Member of IEEE. His primary research areas include resilient optica
 ## Scholarship
 
 - 2019–2020 French Eiffel Excellence Scholarship 
-    - Top-tier French government doctoral scholarship for outstanding international PhD candidates
+    - **Top-tier French government doctoral scholarship** for outstanding international PhD candidates
 - 2020–2022 China Scholarship Council (CSC) Doctoral Scholarship
-    - Top-tier Chinese government scholarship for overseas joint PhD study
+    - **Top-tier Chinese government scholarship** for overseas joint PhD study
 - 2022 Université d’Avignon Cotutelle Scholarship
 
 ## Academic Services
@@ -80,7 +80,7 @@ Dr. Liu is a Member of IEEE. His primary research areas include resilient optica
 - Photonic Network Communications
 
 ### Conference 
-- **TPC Member**: 2026 Globecom, 2025/2026 IEEE ISCC
+- **TPC Member**: 2026 Globecom, 2025/2026 IEEE ISCC, 2026 ICT
 - **Reviewer**: 2023 IWCMC, 2022 18th WiMob, 2022 IEEE ISCC, 2020 IEEE GLOBECOM, 2019 6-th ICT-DM 2019
 
 ## Contact
