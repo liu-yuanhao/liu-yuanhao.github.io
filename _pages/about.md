@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Yuanhao Liu** has been a Special-Term Research Fellow at the School of Computing and Information Technology, **Great Bay University**, China, since 2024. He conducts research at the Optical Information and Communication Lab (OICL), led by **Optica Fellow Prof. Ning Deng**.
+**Yuanhao Liu** has been a Special-Term Research Fellow at the School of Computing and Information Technology, **Great Bay University**, China, since 2024. He conducts research at the Optical Information and Communication Lab (OICL), led by **Prof. Ning Deng (Optica Fellow)**.
 
 He obtained his B.E. degree in 2016 and Ph.D. degree in 2022, both in Information and Communication Engineering, from the School of Telecommunications Engineering, **Xidian University**, China, supervised by **Prof. Tao Shang**. In November 2022, he was awarded a joint Ph.D. in Computer Science from the Centre d'Enseignement, de Recherche et d'Ingénierie - Laboratoire d'Informatique d'Avignon (CERI-LIA), **Université d’Avignon**, France, co-supervised by **Prof. Fen Zhou** and **Prof. Juan-Manuel Torres-Moreno**.
 
