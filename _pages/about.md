@@ -9,9 +9,9 @@ redirect_from:
 
 **Yuanhao Liu** has been a Special-Term Research Fellow at the School of Computing and Information Technology, **Great Bay University**, China, since 2024. He conducts research at the Optical Information and Communication Lab (OICL), led by **Optica Fellow Prof. Ning Deng**.
 
-He obtained his B.E. degree in 2016 and Ph.D. degree in 2022, both in Information and Communication Engineering, from the School of Telecommunications Engineering, **Xidian University**, China. In November 2022, he was awarded a joint Ph.D. in Computer Science from the Centre d'Enseignement, de Recherche et d'Ingénierie - Laboratoire d'Informatique d'Avignon (CERI-LIA), **Université d’Avignon**, France.
+He obtained his B.E. degree in 2016 and Ph.D. degree in 2022, both in Information and Communication Engineering, from the School of Telecommunications Engineering, **Xidian University**, China, supervised by **Prof. Tao Shang**. In November 2022, he was awarded a joint Ph.D. in Computer Science from the Centre d'Enseignement, de Recherche et d'Ingénierie - Laboratoire d'Informatique d'Avignon (CERI-LIA), **Université d’Avignon**, France, co-supervised by **Prof. Fen Zhou** and **Prof. Juan-Manuel Torres-Moreno**.
 
-Dr. Liu is a Member of IEEE. His primary research areas include resilient optical network scheduling, optical interconnects for AI computing datacenters, etc. He has published more than 20 high-quality papers in prestigious journals and flagship conferences. Additionally, he is an active reviewer for multiple top-tier academic journals and has served on the Technical Program Committee (TPC) for several conferences.
+Dr. Liu is a Member of IEEE. His primary research areas include resilient optical network scheduling, optical interconnects for AI computing datacenters, etc. He has published more than 30 high-quality papers in prestigious journals and flagship conferences. Additionally, he is an active reviewer for multiple top-tier academic journals and has served on the Technical Program Committee (TPC) for several conferences.
 
 ## Research Interests
 
@@ -26,17 +26,17 @@ Dr. Liu is a Member of IEEE. His primary research areas include resilient optica
 
 - 2024.08.01 –Pres., Special-Term Research Fellow
     - School of Computing and Information Technology, Great Bay University, China
-    - Optical Information and Communication Lab (led by Prof. Ning Deng, Optica Fellow)
+    - Optical Information and Communication Lab (led by **Prof. Ning Deng, Optica Fellow**)
 
 ## Educational Experience
 
 - 2019.09 – 2022.11, Joint Ph.D. Degree (Computer Science, Informatique, EB 536)
     - Laboratoire Informatique d’Avignon (LIA), Université d’Avignon, France
-    - Co-supervised by Prof. Fen Zhou (HDR) and Prof. Juan-Manuel Torres-Moreno (HDR)
+    - Co-supervised by **Prof. Fen Zhou** (HDR) and **Prof. Juan-Manuel Torres-Moreno** (HDR)
 
 - 2016.09 – 2022.12, Ph.D. Degree (Information and Telecommunications Engineering)
     - School of Telecommunications Engineering, Xidian University, China
-    - Supervised by Prof. Tao Shang (Vice Dean of School of Telecommunications Engineering)
+    - Supervised by **Prof. Tao Shang** (Vice Dean of School of Telecommunications Engineering)
     - Successive postgraduate and doctoral programs
 
 - 2016.09 – 2022.12, Ph.D. Degree (Information and Telecommunications Engineering)
