@@ -53,4 +53,4 @@ author_profile: true
 
 - Xiaolan Xie, **Yuanhao Liu (corresponding author)**, Cao Chen, Minwei Fan, Ning Deng, and Kezhong Lu, “Disaster Protection in SDM Elastic Optical Network with and without Inter-Core Switching,” Submitted to *2025 IEEE Global Communications Conference (GLOBECOM)* in May 2026.
 
-- Minwei Fan, Cao Chen, **Yuanhao Liu**, Ning Deng, Gangxiang Shen, “Survivable C+L Optical Network Provisioning in Different Failure Scenarios,” Submitted to *Journal of Optical Communications and Networking* in Jun. 2026.
+- Minwei Fan, **Yuanhao Liu (corresponding author)**, Cao Chen, Ning Deng, Gangxiang Shen, “Survivable C+L Optical Network Provisioning in Different Failure Scenarios,” Submitted to *Journal of Optical Communications and Networking* in Jun. 2026.
