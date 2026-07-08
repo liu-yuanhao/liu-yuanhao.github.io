@@ -15,7 +15,7 @@ author_profile: true
 
 - **Yuanhao Liu**, Ning Deng, Cao Chen, and Jianfei He, “On Resilient OCS-based Data Center Networks,” *2026 IEEE International Conference on Communications (ICC)*, Glasgow, May 2026, pp. 1-6.
 
-- **Yuanhao Liu**, Xiaolan Xie, Ning Deng, Minwei Fan, and Cao Chen, “High-Resilience Optical Network for Artificial Intelligence Data Centers,” *Study on Optical Communications*, 2026(4): xx-xx.
+- **Yuanhao Liu**, Xiaolan Xie, Ning Deng, Minwei Fan, and Cao Chen, “High-Resilience Optical Network for Artificial Intelligence Data Centers (Invited),” *Study on Optical Communications*, 2026(4): xx-xx. **(Cover Paper)**
 
 - **Yuanhao Liu**, and Ning Deng, “Disaster-Resilient Provisioning Leveraging Shared Adaptive Unequal Multi-Path Protection in DCONs,” *2025 IEEE Global Communications Conference (GLOBECOM)*, Taipei, Dec.2025, pp. 4077-4082.
 
