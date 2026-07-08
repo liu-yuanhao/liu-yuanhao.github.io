@@ -7,7 +7,7 @@ author_profile: true
 
 - **Yuanhao Liu**, Fen Zhou, Michał Pióro, Tao Shang, and Juan-Manuel Torres-Moreno, “Power-Efficient Directed p-Cycle Design Leveraging Loop-Eliminating Flow and Column Generation,” *IEEE Transactions on Network and Service Management*, Early Access Article, Jun. 2026.
 
-- Yuxuan He, Yiru Zhang, **Yuanhao Liu (corresponding author)**, Li Zhen\*, Xiaodai Dong, Keping Yu, and Derrick Wing Kwan Ng, “Fairness Enhancement in Grant-Free Random Access With Power Control for Cell-Free Massive MIMO,” *IEEE Transactions on Vehicular Technology*, Early Access Article, Jun. 2026.
+- Yuxuan He, Yiru Zhang, **Yuanhao Liu\* (corresponding author)**, Li Zhen\*, Xiaodai Dong, Keping Yu, and Derrick Wing Kwan Ng, “Fairness Enhancement in Grant-Free Random Access With Power Control for Cell-Free Massive MIMO,” *IEEE Transactions on Vehicular Technology*, Early Access Article, Jun. 2026.
 
 - **Yuanhao Liu**, and Ning Deng, “Shared and Adaptive Unequal Multi-Path Protection in Inter-Datacenter Optical Networks,” *Journal of Lightwave Technology*, Early Access Article, May 2026.
 
@@ -23,7 +23,7 @@ author_profile: true
 
 - **Yuanhao Liu**, Yuxuan He, Yongjun Li, Zhiqiang Ma, Xiang Wang, Min Ju, Xuan Li, and Xin Li “Cost-Oriented and Delay-Constrained Anycasting for Service Function Chain Provisioning Leveraging Cloud-Edge Collaboration in Space-Air-Ground Integrated Networks,” *IEEE Internet of Things Journal*, vol. 12, no. 4, pp. 4475-4487, Feb. 2025.
 
-- Minwei Fan, **Yuanhao Liu (corresponding author)**, and Ning Deng\*, "Disaster-Resilient Provisioning in C+L Multi-Band Optical Networks," *2025 Asia Communications and Photonics Conference (ACP)*, Jiangsu, China, 2025, pp. 1-5.
+- Minwei Fan, **Yuanhao Liu\* (corresponding author)**, and Ning Deng\*, "Disaster-Resilient Provisioning in C+L Multi-Band Optical Networks," *2025 Asia Communications and Photonics Conference (ACP)*, Jiangsu, China, 2025, pp. 1-5.
 
 - **Yuanhao Liu**, Fen Zhou, Tao Shang, and Juan-Manuel Torres-Moreno, “Disaster Protection for Service Function Chain Provisioning in EO-DCNs,” *IEEE Transactions on Network and Service Management*, vol. 20, no. 3, pp. 2356-2369, Sept. 2023.
 
@@ -51,6 +51,6 @@ author_profile: true
 
 - **Yuanhao Liu**, Ning Deng, and Minwei Fan, “On p-Cycle-based Disaster Protection for Optical Network Provisioning,” Submitted to *2025 IEEE Global Communications Conference (GLOBECOM)* in May 2026.
 
-- Xiaolan Xie, **Yuanhao Liu (corresponding author)**, Cao Chen, Minwei Fan, Ning Deng\*, and Kezhong Lu, “Disaster Protection in SDM Elastic Optical Network with and without Inter-Core Switching,” Submitted to *2025 IEEE Global Communications Conference (GLOBECOM)* in May 2026.
+- Xiaolan Xie, **Yuanhao Liu\* (corresponding author)**, Cao Chen, Minwei Fan, Ning Deng\*, and Kezhong Lu, “Disaster Protection in SDM Elastic Optical Network with and without Inter-Core Switching,” Submitted to *2025 IEEE Global Communications Conference (GLOBECOM)* in May 2026.
 
 - Minwei Fan, **Yuanhao Liu\* (corresponding author)**, Cao Chen\*, Ning Deng\*, Gangxiang Shen, “Survivable C+L Optical Network Provisioning in Different Failure Scenarios,” Submitted to *Journal of Optical Communications and Networking* in Jun. 2026.
