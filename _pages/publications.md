@@ -5,13 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Yuanhao Liu**, Fen Zhou, Michał Pióro, Tao Shang, and Juan-Manuel Torres-Moreno, “Power-Efficient Directed p-Cycle Design Leveraging Loop-Eliminating Flow and Column Generation,” *IEEE Transactions on Network and Service Management*, Early Access Article, Jun. 2026.
+- **Yuanhao Liu**, Fen Zhou, Michał Pióro, Tao Shang, and Juan-Manuel Torres-Moreno, “Power-Efficient Directed p-Cycle Design Leveraging Loop-Eliminating Flow and Column Generation,” *IEEE Transactions on Network and Service Management*, vol. 23, pp. 5411-5424, 2026.
 
 - Yuxuan He, Yiru Zhang, **Yuanhao Liu\* (corresponding author)**, Li Zhen\*, Xiaodai Dong, Keping Yu, and Derrick Wing Kwan Ng, “Fairness Enhancement in Grant-Free Random Access With Power Control for Cell-Free Massive MIMO,” *IEEE Transactions on Vehicular Technology*, Early Access Article, Jun. 2026.
 
-- **Yuanhao Liu**, and Ning Deng, “Shared and Adaptive Unequal Multi-Path Protection in Inter-Datacenter Optical Networks,” *Journal of Lightwave Technology*, Early Access Article, May 2026.
-
-- **Yuanhao Liu**, Ning Deng, Cao Chen, Jianfei He, Hua Zhang, “On Proactive Resilience in OCS-enabled Data Center Networks against Link and Switch Failure,” Submitted to *IEEE Transactions on Network and Service Management* in May 2026.
+- **Yuanhao Liu**, and Ning Deng, “Shared and Adaptive Unequal Multi-Path Protection in Inter-Datacenter Optical Networks,” *Journal of Lightwave Technology*, vol. 44, no. 14, pp. 5889-5902, 15 July15, 2026.
 
 - **Yuanhao Liu**, Ning Deng, Cao Chen, and Jianfei He, “On Resilient OCS-based Data Center Networks,” *2026 IEEE International Conference on Communications (ICC)*, Glasgow, May 2026, pp. 1-6.
 
@@ -49,7 +47,9 @@ author_profile: true
 
 ### Under Review
 
-- **Yuanhao Liu**, Ning Deng, and Minwei Fan, “On p-Cycle-based Disaster Protection for Optical Network Provisioning,” Submitted to *2025 IEEE Global Communications Conference (GLOBECOM)* in May 2026.
+- **Yuanhao Liu**, Ning Deng, Cao Chen, Jianfei He, Hua Zhang, “On Proactive Resilience in OCS-enabled Data Center Networks against Link and Switch Failure,” Submitted to *IEEE Transactions on Network and Service Management* in May 2026.
+
+- **Yuanhao Liu**, Ning Deng, and Minwei Fan, “On p-Cycle-based Disaster Protection for Optical Network Provisioning,” Submitted to *2025 IEEE Global Communications Conference (GLOBECOM)* in May 2026, Under Review.
 
 - Xiaolan Xie, **Yuanhao Liu\* (corresponding author)**, Cao Chen, Minwei Fan, Ning Deng\*, and Kezhong Lu, “Disaster Protection in SDM Elastic Optical Network with and without Inter-Core Switching,” Submitted to *2025 IEEE Global Communications Conference (GLOBECOM)* in May 2026.
 
